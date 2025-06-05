@@ -1,0 +1,6 @@
+[submodule "rail-cad-standart"]
+	path = rail-cad-standart
+	url = ssh://git@local.ionivation.com:2222/eTrain3D/rail-cad-standart.git
+[submodule "eTrain3D.wiki"]
+	path = eTrain3D.wiki
+	url = ssh://git@local.ionivation.com:2222/eTrain3D/eTrain3D.wiki.git
