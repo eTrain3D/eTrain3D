@@ -22,11 +22,20 @@ Kennst Du die Eisenbahn und das Schienensystem, meist aus Holz von den Firmen Br
 
 ## Submodule
 
-- [x] Schienensystem  
+- [x] [Schienensystem](https://local.ionivation.com/eTrain3D/rail-cad-standart)  
 - [ ] Fahrzeuge  
-- [ ] Wiki  
+- [x] [Wiki](https://local.ionivation.com/eTrain3D/eTrain3D/wiki/)  
 - [ ] Controller und Firmware  
 
 ## Lizenz
 
-(C) 2025 - Adam Skotarczak  
+![ÇrealAscotLogo](./media/realAscotLogo_128x128.png)  
+
+Diese Dateien unterliegen einer individuellen Lizenzvereinbarung (DE/EN):  
+📄 [LICENSE](./LICENSE)  
+
+- Keine Weiterverbreitung der Originaldateien erlaubt  
+- Kommerzielle Nutzung der Modelle nur zur Eigenproduktion gestattet  
+- Änderungen für Eigengebrauch erlaubt  
+
+> **(C) 2025 - Adam Skotarczak**  
