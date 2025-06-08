@@ -1,12 +1,12 @@
 [submodule "rail-cad-standart"]
 	path = rail-cad-standart
-	url = ssh://git@local.ionivation.com:2222/eTrain3D/rail-cad-standart.git
-	# url = ssh://git@github.com:eTrain3D/rail-cad-standart.git
+	# url = ssh://git@local.ionivation.com:2222/eTrain3D/rail-cad-standart.git
+	url = ssh://git@github.com:eTrain3D/rail-cad-standart.git
 [submodule "eTrain3D.wiki"]
 	path = eTrain3D.wiki
-	url = ssh://git@local.ionivation.com:2222/eTrain3D/eTrain3D.wiki.git
-	# url = ssh://git@github.com:eTrain3D/eTrain3D-wiki.git
+	# url = ssh://git@local.ionivation.com:2222/eTrain3D/eTrain3D.wiki.git
+	url = ssh://git@github.com:eTrain3D/eTrain3D-wiki.git
 [submodule "etrain3d-vehicle"]
 	path = etrain3d-vehicle
-	url = ssh://git@local.ionivation.com:2222/eTrain3D/etrain3d-vehicle.git
-	# url = ssh://git@github.com:eTrain3D/etrain3d-vehicle.git
+	# url = ssh://git@local.ionivation.com:2222/eTrain3D/etrain3d-vehicle.git
+	url = ssh://git@github.com:eTrain3D/etrain3d-vehicle.git
